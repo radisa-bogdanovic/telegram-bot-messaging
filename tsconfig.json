@@ -9,9 +9,6 @@
     "skipLibCheck": true
   },
   "include": [
-    "server.ts",
-    "plugins/**/*.ts",
-    "utils/**/*.ts",
-    "routes/**/*.ts"
+    "**/*.ts"
   ]
 }
